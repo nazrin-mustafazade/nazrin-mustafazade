@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Backend**
 
-- 📫 How to reach me: **naznaz08@gmail.com**
+- 📫 How to reach me: **nazrin.mustafazade00@gmail.com**
 
 - ⚡ What I like to do: **I like so much reading, playing kanun, writing ...and coding of course**
 
@@ -16,7 +16,7 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazrin-mustafazade-566b9724a/)
 
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naznaz08@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazrin.mustafazade00@gmail.com)
   
 </div>
 

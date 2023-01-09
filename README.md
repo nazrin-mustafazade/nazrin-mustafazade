@@ -1,22 +1,23 @@
-<h2 align="center">Hi 👋, I'm Fateh <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
-<h3 align="center">A passionate Full Stack developer(and a beginner designer) from Azerbaijan</h3>
+<h2 align="center">Hi 👋, I'm Nazrin </h2>
+<h3 align="center">A passionate Frontend developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on my **AI**
+- 🔭 I’m currently working on **Azure**
 
-- 🌱 I’m currently learning **Laravel & Vue.js**
+- 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **Front-End, Back-End Swift**
+- 👯 I’m looking to collaborate on **Backend**
 
-- 📫 How to reach me: **fatehshm@code.edu.az**
+- 📫 How to reach me: **naznaz08@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, playing piano, writing ...and coding of course**
+- ⚡ What I like to do: **I like so much reading, playing kanun, writing ...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatehmammadli/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/everyonelovesfateh/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatehshm@code.edu.az)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+  (https://www.linkedin.com/in/nazrin-mustafazade-566b9724a/)
+
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naznaz08@gmail.com)
   
 </div>
 

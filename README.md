@@ -1,15 +1,13 @@
 <h2 align="center">Hi 👋, I'm Nazrin </h2>
 <h3 align="center">A passionate Frontend developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on **Azure**
+- 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning **React.js**
-
-- 👯 I’m looking to collaborate on **Backend**
+- 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me: **nazrin.mustafazade00@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, playing kanun, writing ...and coding of course**
+- ⚡ What I like to do: **I like so much reading, writing ...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
